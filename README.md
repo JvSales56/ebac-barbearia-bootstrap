@@ -34,7 +34,10 @@ O projeto foi desenvolvido utilizando **HTML5, Bootstrap e SCSS**, aplicando con
 
 1.Clone o repositório.
 2.Abra o arquivo index.html em um navegador.
-3.Redimensione a janela ou utilize o modo responsivo do navegador para visualizar a adaptação do layout em diferentes tamanhos de tela.
+3.
+1. Clone este repositório.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Redimensione a janela ou utilize o modo responsivo do navegador para visualizar a adaptação do layout em diferentes tamanhos de tela.
 
 ## Autor
 
