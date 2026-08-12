@@ -1,0 +1,14 @@
+// BASE
+@use "base/reset";
+@use "base/variaveis";
+
+// COMPONENTES
+@use "componentes/formulario";
+@use "componentes/botoes";
+@use "componentes/cards";
+@use "componentes/carrosel";
+@use "componentes/navbar";
+
+// SECOES
+@use "secoes/secoes.scss";
+@use "secoes/footer.scss";

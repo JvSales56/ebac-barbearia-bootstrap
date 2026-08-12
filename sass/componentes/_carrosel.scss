@@ -1,0 +1,8 @@
+@use "../base/variaveis" as *;
+
+#depoimentos {
+  .carousel-inner {
+    background-color: $color-dark;
+    border-top: 4px solid $color-primary;
+  }
+}

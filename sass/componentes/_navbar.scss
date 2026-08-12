@@ -1,0 +1,25 @@
+@use "../base/variaveis" as *;
+
+.navbar {
+  background-color: $color-dark !important;
+
+  .navbar-brand, 
+  .nav-link {
+    color: $color-white !important;
+  }
+
+  .nav-link {
+    &:hover, 
+    &.active {
+      color: $color-primary !important;
+    }
+  }
+
+  .navbar-toggler {
+    border-color: $color-primary;
+
+    .navbar-toggler-icon {
+      filter: invert(1);
+    }
+  }
+}

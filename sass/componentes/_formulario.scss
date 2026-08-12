@@ -1,0 +1,8 @@
+@use "../base/variaveis" as *;
+
+.form-control {
+  &:focus {
+    border-color: $color-primary;
+    box-shadow: 0 0 0 0.25rem rgba($color-primary, 0.25);
+  }
+}

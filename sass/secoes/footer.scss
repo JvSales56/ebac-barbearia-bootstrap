@@ -1,0 +1,6 @@
+@use "../base/variaveis" as *;
+
+footer {
+  background-color: $color-footer-bg !important;
+  border-top: 1px solid #2B2D42;
+}
