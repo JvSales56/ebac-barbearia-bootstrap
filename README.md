@@ -38,4 +38,4 @@ O projeto foi desenvolvido utilizando **HTML5, Bootstrap e SCSS**, aplicando con
 
 ## Autor
 
-João Sales# ebac-barbearia-bootstrap
+João Sales
